@@ -1,0 +1,40 @@
+.todo {
+  width: 100%;
+  padding: 0 .2rem;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.todo-actions {
+    width: min-content;
+    transform: translateX(.7rem);
+}
+
+.todo-btn {
+    cursor: pointer;
+}
+
+.check-btn {
+    color: #5cb85c;
+}
+
+.delete-btn {
+    color: #555;
+    margin-right: 0;
+}
+
+.todo-content {
+    margin-right: 10vw;
+    cursor: text;
+    color: #547494;
+}
+
+.complete {
+    color: #9CB4CC;
+}
+
+[contenteditable] {
+    outline: 0px solid transparent;
+}

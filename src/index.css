@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@400;500&display=swap');
+
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #EEEEEE;
+  box-sizing: border-box;
+  font-family: 'Prompt', sans-serif;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+::-moz-selection { /* Code for Firefox */
+  color: #fff;
+  background: #3A4750;
+}
+
+::selection {
+  color: #fff;
+  background: #3A4750;
+}

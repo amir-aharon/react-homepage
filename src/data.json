@@ -1,0 +1,45 @@
+[{
+    "id": 1,
+    "task": "Beach 🏖️",
+    "complete": false
+  }, {
+    "id": 2,
+    "task": "Wake up at 5 AM 😴",
+    "complete": false
+  }, {
+    "id": 3,
+    "task": "Concert 🤘",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "Meteor Shower 🌠",
+    "complete": false
+  }, {
+    "id": 5,
+    "task": "2+ days in a row 🗓️",
+    "complete": false
+  }, {
+    "id": 6,
+    "task": "Hamburger 🍔",
+    "complete": false
+  }, {
+    "id": 7,
+    "task": "Shawarma 🥙",
+    "complete": false
+  }, {
+    "id": 8,
+    "task": "Picnic in a park 🧺",
+    "complete": false
+  }, {
+    "id": 9,
+    "task": "Disney week 👑",
+    "complete": false
+  }, {
+    "id": 10,
+    "task": "Optimize Amir's room 🤔",
+    "complete": false
+  }, {
+    "id": 11,
+    "task": "Kodesh-land 🕍",
+    "complete": false
+  }]

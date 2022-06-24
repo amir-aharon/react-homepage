@@ -1,0 +1,55 @@
+
+.header {
+    width: 100%;
+    height: 8%;
+    background-color: #3A4750;
+    display: flex;
+    padding: 1rem 1rem 1rem 3.5rem;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.title span {
+    color: #fff;
+    font-size: 2rem;
+    letter-spacing: 0.1em;
+	transition: all 0.3s ease-out;
+}
+
+.title span:nth-child(2) {
+    opacity: 0;
+    overflow: hidden;
+    transition: ease-in-out 0.5s;
+    letter-spacing: -.5em;
+}
+
+.title span:nth-child(5) {
+    opacity: 0;
+    overflow: hidden;
+    transition: ease-in-out 0.5s;
+    letter-spacing: -.5em;
+}
+
+.title span:nth-child(2) {
+    transition-delay: 0.35s;
+}
+
+.title:hover span:nth-child(2) {
+    opacity: 1;
+    letter-spacing: 0.1em;
+    transition-delay: 0s;
+}
+
+.title:hover span:nth-child(5) {
+    opacity: 1;
+    letter-spacing: 0.1em;
+    transition-delay: 0.35s;
+}
+
+span.heart {
+    color: #d9534f;
+}
+
+span {
+    cursor: default;
+}
